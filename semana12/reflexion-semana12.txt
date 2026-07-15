@@ -1,0 +1,10 @@
+Durante este curso aprendí que la tecnología puede ser una gran herramienta para fortalecer la participación ciudadana y la organización comunitaria.
+Comprendí la importancia de las bases de datos para almacenar información de forma organizada y segura.
+También aprendí que la autenticación de usuarios ayuda a proteger el acceso a la información.
+Conocí cómo la automatización puede facilitar procesos y ahorrar tiempo en tareas repetitivas.
+Además, entendí el valor de generar documentos PDF para presentar información de manera formal.
+Aprendí que es fundamental proteger los datos personales y respetar la privacidad de los usuarios.
+Las actividades del curso me permitieron aplicar conceptos de Node.js, Git y GitHub en ejercicios prácticos.
+También desarrollé habilidades para organizar proyectos y publicar mis avances en un repositorio.
+Considero que estos conocimientos serán de gran utilidad en mi formación profesional y en futuros proyectos.
+En conclusión, este curso me permitió comprender cómo la tecnología puede apoyar el trabajo colaborativo y beneficiar a las comunidades.

@@ -1,0 +1,5 @@
+Un ciudadano crea una nueva causa comunitaria mediante un formulario.
+La información de la causa se guarda en la base de datos.
+Otros ciudadanos pueden consultar las causas disponibles.
+Los usuarios apoyan la causa y el sistema registra cada apoyo.
+El sistema cuenta los apoyos recibidos y genera un documento PDF con la petición para compartirla o presentarla.
